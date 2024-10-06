@@ -1,0 +1,18 @@
+.hero {
+    background: url('D:/travel-planner-app/frontend/src/components/homeHeader.jpg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+  }
+  
+  section#about img {
+    max-width: 100%;
+    height: auto;
+  }
+  
